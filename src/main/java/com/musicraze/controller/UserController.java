@@ -1,4 +1,4 @@
-package com.musicraze;
+package com.musicraze.controller;
 
 import java.net.URI;
 import java.net.URISyntaxException;
