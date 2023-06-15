@@ -1,1 +1,1 @@
-Testing Java Spring + React app.
+Testing Java Spring + React app
